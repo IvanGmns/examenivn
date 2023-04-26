@@ -8,7 +8,7 @@ class Auth{
             $this->conect->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
         }catch(Exception $e){
             $this->conect = 'Error de conexion';            
-            if($e->getMessage() !="SQLSTATE[HY000] [1049] Unknown database 'examen'"){
+            if($e->getMessage() !="SQLSTATE[HY000] [1049] Unknown database 'examenivn'"){
                 echo "Error: " . $e->getMessage();
             }
         }    
