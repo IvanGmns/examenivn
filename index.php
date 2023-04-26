@@ -1,0 +1,12 @@
+<?php
+require_once('helpers/Productos_helpers.php');
+require_once('helpers/Logs_helpers.php');
+require_once('helpers/Curl_helpers.php');
+require_once('config/Constants.php');
+require_once('extends/Controllers.php');
+require_once('extends/Auth.php');
+require_once('extends/Models.php');
+require_once('extends/View.php');
+require_once('extends/Mysql.php');
+require_once('config/Rutas.php');
+?>

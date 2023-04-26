@@ -1,0 +1,15 @@
+#logoPrincipal{width:50%;}
+.dbError{color:#D82239;}
+.dbSuccess{color:#21A366}
+.lvlBasico{color:#21A366;font-weight:bold;}
+.lvlIntermedio{color:#007BFF;font-weight:bold;}
+.lvlAvanzado{color:#D82239;font-weight:bold;}
+.btnRight{text-align:right;margin-bottom:20px}
+.btnPadding{margin: 10px 0 10px 0}
+.productoDescripcion{border:1px solid #CCCCCC;width:100%;padding:20px;font-weight:bold;color:#666}
+.productoClave{font-size:26px}
+.colorPrincipal{color:#284186}
+.colorSecundario{color:#EC2028}
+.productoPrecio{font-size: 32px;padding-top:30px}
+.productoComentarios{border:1px solid #CCCCCC;width:100%;padding:20px;font-weight:bold;color:#666;margin-top:10px}
+.comentarioCalificacion{font-size:20px;text-align:center}
